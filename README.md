@@ -6,3 +6,8 @@ nux -v: 1.2.0
 
 Hono:
 bun add hono
+
+TanStack
+bun add @tanstack/react-query@5.59.0
+
+bun add @hono/zod-validator
